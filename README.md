@@ -13,7 +13,7 @@ https://app.powerbi.com/links/UH3cSvY8Cl?ctid=a6dbc183-3bd5-46bc-8f30-e30bf936be
 
 ## 📷 Dashboard Preview
 
-![HR Analytics Dashboard](images/dashboard.png)
+ <img width="1377" height="772" alt="image" src="https://github.com/user-attachments/assets/375162d3-1937-4baf-bf66-f0530ec1bd44" />
 
 ---
 
